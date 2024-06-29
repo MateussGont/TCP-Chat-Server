@@ -1,4 +1,4 @@
-# Projeto de Chat com Makefile
+# TCP-Chat-Server
 
 Este projeto é um cliente e servidor de chat em C. Ele utiliza um Makefile para compilar os arquivos-fonte e gerar os binários.
 
