@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "inet.h": "c",
+        "unistd.h": "c",
+        "messages.h": "c"
+    }
+}
